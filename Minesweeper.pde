@@ -61,7 +61,7 @@ public void displayLosingMessage()
     buttons[2][1].myLabel= "O";
     buttons[2][2].myLabel= "S";
     buttons[2][3].myLabel= "E";
-    
+    noloop();
 }
 public void displayWinningMessage()
 {
